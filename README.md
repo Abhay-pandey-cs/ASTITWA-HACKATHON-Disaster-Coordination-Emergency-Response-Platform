@@ -17,7 +17,7 @@ Since `node` or `npm` was not found in your terminal environment during the setu
 
 ## How to Run the Backend
 1. Open a new terminal / command prompt.
-2. Navigate to this directory: `cd C:\Users\abhay\disaster-backend`
+2. Navigate to this directory: `cd project-folder-name`
 3. Install dependencies:
    ```bash
    npm install express mongoose socket.io dotenv bcryptjs jsonwebtoken cors
@@ -30,7 +30,7 @@ Since `node` or `npm` was not found in your terminal environment during the setu
 
 ## How to Run the Frontend
 The frontend is built with pure, highly optimized HTML/CSS/JS (Vanilla). No build step required!
-1. Simply navigate to the `frontend` folder: `C:\Users\abhay\disaster-backend\frontend`
+1. Simply navigate to the `frontend` folder: `cd frontend`
 2. Double-click **`index.html`** to open it in your web browser.
 3. Once opened, you can create a user, login, and start interacting with the real-time map!
 
